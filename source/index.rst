@@ -5,13 +5,6 @@ Resume
 *********************
 
 
-.. note:: 
-
-    Print this :download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>` for a proper one page resume.  
-
-    
-    Do not click the print to pdf button at the top of this page.  It simply renders the html to pdf.  
-
 Justin Napolitano
 ********************
 
@@ -291,4 +284,14 @@ Email:
     * :email:`justin@jnapolitano.io`
 
 Phone
-   * `+1(832) 299-0372 <tel:+1-832-299-0372>`_ 
+   * `+1(832) 299-0372 <tel:+1-832-299-0372>`_
+
+PDF 
+####
+
+.. note:: Print ME
+
+    Please print the linked pdf below.  It is a properly formatted latex pdf.  Printing this page to pdf will only render the html. 
+
+    
+:download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>`
