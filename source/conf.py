@@ -47,15 +47,15 @@ html_title = 'Justin Napolitano'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'ablog',
+#    'ablog',
     'myst_nb',
     'sphinx_copybutton',
     'sphinx_design',
     'sphinx_thebe',
     'sphinx_togglebutton',
-    'sphinxcontrib.bibtex',
+#    'sphinxcontrib.bibtex',
     'sphinxext.opengraph',
-    'sphinx.ext.autodoc',
+#    'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
@@ -67,16 +67,16 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.coverage',
     'sphinx.ext.autosectionlabel',
-    'autoapi.extension',
+#    'autoapi.extension',
     'sphinxcontrib.email',
     "sphinx_jupyterbook_latex",
-    "hawkmoth",
-    "sphinx_panels"
+#    "hawkmoth",
+#    "sphinx_panels"
 ]
 
 #Cautodoc Setup
 
-cautodoc_root = os.path.abspath("codebase/project-c-reference")
+#cautodoc_root = os.path.abspath("codebase/project-c-reference")
 
 #jupyter latex setup
 
@@ -91,12 +91,12 @@ email_automode = True
 # Document Python Code
 
 #AUTOAPI CONFIG
-autoapi_type = 'python'
-autoapi_dirs = ['../source']
-autoapi_root= '../source/output-docs'
-autoapi_keep_files = False
-autoapi_add_toctree_entry = False
-autoapi_generate_api_docs = False
+#autoapi_type = 'python'
+#autoapi_dirs = ['../source']
+#autoapi_root= '../source/output-docs'
+#autoapi_keep_files = False
+#autoapi_add_toctree_entry = False
+#autoapi_generate_api_docs = False
 
 #Make Section headers refs
 autosectionlabel_prefix_document = True
@@ -130,8 +130,8 @@ thebe_config = {
 }
 
 # External Toc config options
-external_toc_path = "_toc.yml"  # optional, default: _toc.yml
-external_toc_exclude_missing = False  # optional, default: False
+#external_toc_path = "_toc.yml"  # optional, default: _toc.yml
+#external_toc_exclude_missing = False  # optional, default: False
 
 intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
@@ -231,17 +231,17 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": False,
     "use_repository_button": True,
-    "use_download_button": True,
+    "use_download_button": False,
     "logo_only": True,
     "show_toc_level": 2,
     # For testing
     # "use_fullscreen_button": False,
     # "home_page_in_toc": True,
-    # "single_page": True,
+     "single_page": True,
     # "extra_footer": "<a href='https://google.com'>Test</a>",  # DEPRECATED KEY
     # "extra_navbar": "<a href='https://google.com'>Test</a>",
     # "show_navbar_depth": 2,
-    "show_toc_level": 2,
+    #"show_toc_level": 2,
 
 }
 
@@ -253,21 +253,21 @@ htmlhelp_basename = 'jnapolitano.io'
 
 
 # -- ABlog config -------------------------------------------------
-blog_path = "parts/journal/posts"
-blog_post_pattern = ["parts/journal/*.md", "parts/journal/posts/*.md", "parts/journal/posts/*.rst"]
-blog_baseurl = "cv.jnapolitano.io"
-fontawesome_included = True
-post_auto_image = 1
-post_auto_excerpt = 2
-execution_show_tb = "READTHEDOCS" in os.environ
+#blog_path = "parts/journal/posts"
+#blog_post_pattern = ["parts/journal/*.md", "parts/journal/posts/*.md", "parts/journal/posts/*.rst"]
+#blog_baseurl = "cv.jnapolitano.io"
+#fontawesome_included = True
+#post_auto_image = 1
+#post_auto_excerpt = 2
+#execution_show_tb = "READTHEDOCS" in os.environ
 
 
 # Bibtex Config
 #----------------------------#
-bibtex_bibfiles = ["references/articles.bib","references/references.bib", "references/bills.bib", "references/books.bib","references/cases.bib", "references/constitution.bib"]
+#bibtex_bibfiles = ["references/articles.bib","references/references.bib", "references/bills.bib", "references/books.bib","references/cases.bib", "references/constitution.bib"]
 # To test that style looks good with common bibtex config
-bibtex_reference_style = "author_year"
-bibtex_default_style = "alpha"
+#bibtex_reference_style = "author_year"
+#bibtex_default_style = "alpha"
 
 
 
