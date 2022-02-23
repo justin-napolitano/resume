@@ -40,7 +40,7 @@ Bachelor in Political Science
 Focuses:
     * `US Supreme Court Jurisprudence. <https://cv.jnapolitano.io/parts/analysis/political-analysis/sup-court/index.html>`_
     * `Behavioral Analysis of Supreme Court Voting Behavior. <https://cv.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-supcourt-tensorflow/index.html>`_
-    * :ref:`International Relations Theory and Analysis. <evolution_of_ngo_paper>`
+    * `International Relations Theory and Analysis. <https://cv.jnapolitano.io/parts/analysis/political-analysis/international-organizations/index.html>`_
     * `Analysis of Socio-Political Structures in Anatolia. <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/index.html>`_
 
 .. _statistics_master:
@@ -289,9 +289,9 @@ Phone
 PDF 
 ####
 
-.. note:: Print ME
+.. topic:: Print Me
 
     Please print the linked pdf below.  It is a properly formatted latex pdf.  Printing this page to pdf will only render the html. 
 
-    
-:download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>`
+PDF Download Link:
+    * :download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>`
