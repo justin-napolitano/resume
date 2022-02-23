@@ -4,6 +4,17 @@
 Resume
 *********************
 
+.. topic:: Introduction
+
+    Justin Napolitano's Resume is displayed below.  The links will direct to you the documentation for each project referenced.  
+
+    Please note that there is a pdf download link at the end of this page that will redirect you to my formal resume. I also include a link at the end of this introduction. Please print the linked document if you would like a physical copy. 
+
+    :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
+
+
+
+
 
 Justin Napolitano
 ********************
