@@ -95,7 +95,7 @@ class build_pipeline:
         time_stamp=utility_functions.timestamp()
         print(pyfiglet.figlet_format("PUshing", font = 'big'))
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
-        result = subprocess.run(['git', 'push',time_stamp], capture_output=True, text=True)
+        result = subprocess.run(['git', 'push'], capture_output=True, text=True)
         print(pyfiglet.figlet_format("Output", font = 'big'))
 
         print(result.stdout)
