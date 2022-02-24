@@ -10,7 +10,7 @@ class config:
 
     def __init__(self):
         self.cname = self.cname_init()
-    
+
 
     def cname_init(self):
         cname = "resume.jnapolitano.io"
@@ -18,7 +18,7 @@ class config:
 
 
 
-class dependency_pipeline: 
+class dependency_pipeline:
 
     def __init__(self):
         self.dependencies_log = self.install_dependencies()
@@ -48,10 +48,10 @@ class build_pipeline:
         self.push_log=self.push()
 
     def make_clean(self):
-        
+
         print(pyfiglet.figlet_format("Now i'm cleaning the old build", font = 'big'))
 
-        
+
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['make', 'clean'], capture_output=True, text=True)
         print(result.stdout)
@@ -76,7 +76,7 @@ class build_pipeline:
         time_stamp=utility_functions.timestamp()
         print(pyfiglet.figlet_format("commiting !!!", font = 'big'))
 
-        
+
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['git', 'commit', '-m', 'autocommit on' + time_stamp], capture_output=True, text=True)
         print(pyfiglet.figlet_format("Output", font = 'big'))
@@ -85,7 +85,7 @@ class build_pipeline:
         print(pyfiglet.figlet_format("Errors", font = 'big'))
 
         print(result.stderr)
-    
+
 
         print(pyfiglet.figlet_format("committed", font = 'big'))
         return result
@@ -102,7 +102,7 @@ class build_pipeline:
         print(pyfiglet.figlet_format("Errors", font = 'big'))
 
         print(result.stderr)
-    
+
 
         print(pyfiglet.figlet_format("pushed it", font = 'big'))
 
@@ -110,10 +110,10 @@ class build_pipeline:
 
 
     def add(self):
-        
+
         print(pyfiglet.figlet_format("Adding CHanges!!!", font = 'big'))
 
-        
+
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['git', 'add', '.'], capture_output=True, text=True)
         print(pyfiglet.figlet_format("Output", font = 'big'))
@@ -122,7 +122,7 @@ class build_pipeline:
         print(pyfiglet.figlet_format("Errors", font = 'big'))
 
         print(result.stderr)
-    
+
 
         print(pyfiglet.figlet_format("changes added", font = 'big'))
 
@@ -135,10 +135,10 @@ class deploy_pipeline:
         self.deploy_log = self.deploy(cname)
 
     def deploy(self,cname):
-        
+
         print(pyfiglet.figlet_format("DEPLOYING!!!", font = 'big'))
 
-        
+
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['ghp-import', '-n', '-p', '-f', '-c', cname, 'build/html' ], capture_output=True, text=True)
         print(pyfiglet.figlet_format("Output", font = 'big'))
@@ -147,9 +147,10 @@ class deploy_pipeline:
         print(pyfiglet.figlet_format("Errors", font = 'big'))
 
         print(result.stderr)
-        
+
 
         print(pyfiglet.figlet_format("i deployz it", font = 'big'))
+        print('your site is live at' + cname)
 
         return result
 
@@ -188,12 +189,12 @@ class utility_functions:
         ts = datetime.timestamp(dt)
         ts = str(ts)
         return ts
-    
+
     def seperator():
         seperator = '-------------'
         sep = pyfiglet.figlet_format(seperator, font = 'standard')
         #sleep(10)
-        print(sep) 
+        print(sep)
 
 
 
