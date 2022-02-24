@@ -1,8 +1,8 @@
 
 .. _resume_header: 
 
-Resume
-*********************
+Justin Napolitano Resume
+*************************
 
 .. topic:: Introduction
 
@@ -12,12 +12,6 @@ Resume
 
     :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
 
-
-
-
-
-Justin Napolitano
-********************
 
 Email:
     * :email:`justin@jnapolitano.io`
