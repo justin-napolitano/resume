@@ -81,10 +81,9 @@ BTJN, LLC
 
 `Sales Lead Generation Application: <https://cv.jnapolitano.io/parts/resume/work-history/docs/btjn.html##data-stream-management-application>`_
     * Produced 10,000 weekly sales leads for a marketing firm.
-    * Mined data with `Python webscraping application. <https://cv.jnapolitano.io/parts/data/web-scraping/index.html>`_ 
+    * Mined data with a my `Python webscraping application. <https://cv.jnapolitano.io/parts/data/web-scraping/index.html>`_ 
     * Integrated data to `Neo4j <https://cv.jnapolitano.io/parts/python-development/neo4j/index.html>`_ and `JanusGraph <https://cv.jnapolitano.io/parts/python-development/janus-graph/index.html>`_ backends.
     * Migrated data to Google Sheets and Drive with a custom `Google API Class <https://cv.jnapolitano.io/parts/python-development/google/index.html>`_ 
-
 
 `CRM Application and Integration: <https://cv.jnapolitano.io/parts/data/data-integration/index.html>`_
     * Created a custom CRM solution with an Azure SQL Server for a public health startup. 
@@ -124,7 +123,7 @@ The University of Central Florida
 `Data Analysis: <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/analysis.html>`_
     * Analyzed conflict data with Excel and Python Pandas. 
     * Visualized data trends with MatPlotLib.  
-    * Prepared presenation for peer review at the Peace Science Conference at the Hague in Switzerland by Dr. Demet Mousseau.
+    * Prepared presentation for peer review at the Peace Science Conference at the Hague in Switzerland by Dr. Demet Mousseau.
 
 `Project Management: <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/pdf.html>`_
     * Developed manuals to train inexperienced research assistants to query primary sources and code data points.
@@ -158,17 +157,17 @@ Projects
 `Supreme Court Metadata Graph <https://cv.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-sup-court-meta-data-graph/index.html>`__
     * A graph of the metadata of every United States Supreme Court Case.
 
+`Real Estate Professional Graph <https://cv.jnapolitano.io/parts/data/graph-database/index.html>`__
+    * Graph of real estate professionals in the United States.
+
 `Supreme Court Voting Behavior Prediction in TensorFlow <https://cv.jnapolitano.io/parts/ml-ai/tensorflow/project-supcourt-tensorflow/index.html>`__
     * Predicting voting behavior of Supreme Court justices with TensorFlow.
 
 `Gender Recognition in TensorFlow <https://cv.jnapolitano.io/parts/ml-ai/tensorflow/project-gender-recognition/index.html>`__
     * Identifying gender with TensorFlow.
 
-`Real Estate Professional Graph <https://cv.jnapolitano.io/parts/data/graph-database/index.html>`__
-    * Graph of real estate professionals in the United States.
-
 `Google API <https://cv.jnapolitano.io/parts/python-development/google/index.html>`__
-    * A Google API application that streamlines data pipelines transformation for teams using the Google Productivity Suite.
+    * A Google API application that streamlines data pipeline transformation for teams using the Google Productivity Suite.
 
 `Sphinx CV Template <https://cv.jnapolitano.io/parts/reference/build-this-site/index.html>`__
     * A Sphinx project that enables non-programmers to create a static website of their cv with Sphinx and MarkDown.
