@@ -8,9 +8,9 @@ Justin Napolitano's Resume
 .. topic:: Introduction
 
 
-    The links included in this document will direct to you the documentation of a referenced project.
+    The links included in this document will direct to you the project documentation.
 
-    Please note that there is a pdf download link at the end of this page that will redirect you to my formal resume. I also include a link at the end of this introduction. Please print the linked document if you would like a physical copy. 
+    Please note that there is a pdf download link at the end of this page that will redirect you to my formal resume. I also include a link at the end of this introduction.
 
     :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
 
@@ -194,7 +194,7 @@ Latin languages:
 
 Asian Languages: 
     Mandardin, Cantonese.
-    
+
 Semitic Langauges:
     Modern Standard Arabic, Egyptian Arabic.
 
