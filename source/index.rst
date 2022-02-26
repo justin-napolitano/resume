@@ -53,6 +53,11 @@ University of Central Florida
 Bachelor in Political Science
 -------------------------------
 
+.. raw:: html
+  
+   <hr>
+
+
 Focuses:
     * `US Supreme Court Jurisprudence. <https://cv.jnapolitano.io/parts/analysis/political-analysis/sup-court/index.html>`_
     * `Behavioral Analysis of Supreme Court Voting Behavior. <https://cv.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-supcourt-tensorflow/index.html>`_
