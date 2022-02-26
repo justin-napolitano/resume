@@ -4,11 +4,6 @@
 Justin Napolitano's Resume
 ***************************
 
-.. admonition:: Print Me
-
-    Please note that there is a pdf download link at the end of this page that will redirect you to my formal resume. I also include a link at the end of this introduction.
-
-    :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
 
 .. topic:: Introduction
 
