@@ -6,7 +6,7 @@ Justin Napolitano's Resume
 
 .. raw:: html
 
-    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 
 
 .. topic:: Introduction
@@ -39,6 +39,10 @@ Education
 
 University of Central Florida 
 =============================
+
+.. raw:: html
+
+    <hr style="height:1px;border-width:0;color:gray;background-color:gray"> 
 
 .. raw:: html
   
