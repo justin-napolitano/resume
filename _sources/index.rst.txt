@@ -16,15 +16,6 @@ Justin Napolitano's Resume
 
 
 
-Email:
-    * :email:`justin@jnapolitano.io`
-
-Phone:
-   * `+1-(832) 299-0372 <tel:+1-832-299-0372>`_
-
-Web:
-    * `cv.jnapolitano.io <https://cv.jnapolitano.io>`_
-
 .. _education_overview:
 
 Education
@@ -109,7 +100,7 @@ The University of Central Florida
     
 
 `Research Design: <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/pdf.html>`_
-    * Ensured rigor of data collection methodology by exceeding industry standards.   
+    * Ensured rigor of data collection methodology by meeting industry best practices.   
     * Procured primary and secondary data sources.
 
 `Database Design: <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/database_schema.html>`_
@@ -206,7 +197,7 @@ Email:
     * :email:`justin@jnapolitano.io`
 
 Phone:
-    * `+1(832) 299-0372 <tel:+1-832-299-0372>`_
+    * `+1-(832) 299-0372 <tel:+1-832-299-0372>`_
 
 Web:
     * `jnapolitano.io <https://jnapolitano.io>`_
@@ -216,10 +207,6 @@ Web:
 
 PDF
 ####
-
-.. topic:: Print Me
-
-    Please print the linked pdf below.  It is a properly formatted LaTeX pdf.
 
 PDF Download Link:
     * :download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>`
