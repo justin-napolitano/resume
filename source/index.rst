@@ -8,9 +8,6 @@ Justin Napolitano's Resume
 
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-.. raw:: html
-  
-   <hr>
 
 .. topic:: Introduction
 
@@ -32,9 +29,6 @@ Education
 
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-.. raw:: html
-  
-   <hr>
 
 .. topic:: Education
 
