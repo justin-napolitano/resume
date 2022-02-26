@@ -5,6 +5,10 @@ Justin Napolitano's Resume
 ***************************
 
 .. raw:: html
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+.. raw:: html
   
    <hr>
 
@@ -25,6 +29,10 @@ Education
 ###########
 
 .. raw:: html
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+.. raw:: html
   
    <hr>
 
@@ -37,6 +45,10 @@ Education
 
 University of Central Florida 
 =============================
+
+.. raw:: html
+  
+   <hr>
 
 .. _poly_sci_major_overview:
 
@@ -66,13 +78,18 @@ Work History
 ############
 
 .. raw:: html
-  
-   <hr>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 .. _LLC_overview:
 
 BTJN, LLC
 =========
+
+.. raw:: html
+  
+   <hr>
 
 .. _founder_overview:
 
@@ -100,6 +117,10 @@ BTJN, LLC
 
 The University of Central Florida 
 =================================
+
+.. raw:: html
+  
+   <hr>
  
 
 `The Turkish Kurdish Event Database <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish>`_
@@ -139,6 +160,11 @@ The University of Central Florida
 Emotional Decision Making and Warfare
 -----------------------------------------
 
+.. raw:: html
+  
+   <hr>
+
+
 .. topic:: Emotions and Decision Making
 
     Dr. Tom Dolan focuses the interaction between emotions and the behavior of political agents.  My role in this project was to code the sentiment of sentences collected during a parliamentary debate to determine the emotional states of parliamentarians prior to the invasion of Iraq.  
@@ -157,8 +183,9 @@ Projects
 #########
 
 .. raw:: html
-  
-   <hr>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 `Business Analysis: <https://cv.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
     * Forecasting and analysis projects.
@@ -196,8 +223,9 @@ Skills
 #####################
 
 .. raw:: html
-  
-   <hr>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 Programming Languages:
     * Bash, C, LaTeX, Python, SAS, SPSS, SQL.
@@ -211,6 +239,10 @@ Human Languages:
 
 Contact
 #########
+
+.. raw:: html
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 Email:
     * :email:`justin@jnapolitano.io`
@@ -228,8 +260,10 @@ PDF
 ####
 
 .. raw:: html
-  
-   <hr>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
 
 PDF Download Link:
     * :download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>`
