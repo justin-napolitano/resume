@@ -4,6 +4,9 @@
 Justin Napolitano's Resume
 ***************************
 
+.. raw:: html
+  
+   <hr>
 
 .. topic:: Introduction
 
@@ -20,6 +23,10 @@ Justin Napolitano's Resume
 
 Education
 ###########
+
+.. raw:: html
+  
+   <hr>
 
 .. topic:: Education
 
@@ -57,6 +64,10 @@ Notable Coursework:
 
 Work History
 ############
+
+.. raw:: html
+  
+   <hr>
 
 .. _LLC_overview:
 
@@ -145,6 +156,10 @@ Sentiment Analysis:
 Projects
 #########
 
+.. raw:: html
+  
+   <hr>
+
 `Business Analysis: <https://cv.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
     * Forecasting and analysis projects.
 
@@ -180,6 +195,10 @@ Projects
 Skills
 #####################
 
+.. raw:: html
+  
+   <hr>
+
 Programming Languages:
     * Bash, C, LaTeX, Python, SAS, SPSS, SQL.
 
@@ -207,6 +226,10 @@ Web:
 
 PDF
 ####
+
+.. raw:: html
+  
+   <hr>
 
 PDF Download Link:
     * :download:`RESUME PDF <pdf/justin_napolitano_resume.pdf>`
