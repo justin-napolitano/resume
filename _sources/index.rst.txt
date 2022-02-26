@@ -104,7 +104,7 @@ The University of Central Florida
     * Procured primary and secondary data sources.
 
 `Database Design: <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/database_schema.html>`_
-    * Designed a third normal database to maintain logical consistancy and variable independence of data points.
+    * Designed a third normal database to maintain logical consistency and variable independence of data points.
     * Refined schema to facilitate easy porting to Person, Object, Location, and Event\ (POLE) Schema.
 
 `Data Integration: <https://cv.jnapolitano.io/parts/data/data-integration/index.html>`_
@@ -145,35 +145,35 @@ Sentiment Analysis:
 Projects
 #########
 
-`Business Analysis <https://cv.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
-    * A collection of business analysis projects.
+`Business Analysis: <https://cv.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
+    * Forecasting and analysis projects.
 
-`Political Analysis <https://cv.jnapolitano.io/parts/analysis/political-analysis/index.html>`__   
-    * A collection of political analysis projects.
+`Political Analysis: <https://cv.jnapolitano.io/parts/analysis/political-analysis/index.html>`__   
+    * Conflict, behavioral, and political analysis.
 
-`TensorFlow Projects <https://cv.jnapolitano.io/parts/ml-ai/index.html>`__
-    * A collection of TensorFlow projects. 
+`TensorFlow Projects: <https://cv.jnapolitano.io/parts/ml-ai/index.html>`__
+    * Machine learning for political analysis. 
 
-`Web Scraping <https://cv.jnapolitano.io/parts/data/web-scraping/index.html>`__
-    * A general web scraping application... for educational purposes only.  
+`Web Scraping: <https://cv.jnapolitano.io/parts/data/web-scraping/index.html>`__
+    * A web scraping application... for educational purposes only.  
 
-`Python Algorithms <https://cv.jnapolitano.io/parts/reference/algorithms/index.html>`__
-    * A collection of Python Algorithms.
+`Python Algorithms: <https://cv.jnapolitano.io/parts/reference/algorithms/index.html>`__
+    * Python Algorithms for learning and reference.
 
-`Python Data Structures <https://cv.jnapolitano.io/parts/reference/data-structures/python/index.html>`__
-    * A collection of Python Data Structures
+`Python Data Structures: <https://cv.jnapolitano.io/parts/reference/data-structures/python/index.html>`__
+    * Python Data Structures for learning and reference.
 
-`Google API <https://cv.jnapolitano.io/parts/python-development/google/index.html>`__
-    * A Google API application that streamlines data pipeline transformation for teams using the Google Productivity Suite.
+`Google API: <https://cv.jnapolitano.io/parts/python-development/google/index.html>`__
+    * Google API application to transform json data to Google Sheets.
 
-`Court-Behavior.io <https://court-behavior.io>`_
+`Court-Behavior.io: <https://court-behavior.io>`_
     * An open source project to document the behavior of the United States Supreme Court.  
 
-`Sphinx CV Template <https://cv.jnapolitano.io/parts/reference/build-this-site/index.html>`__
+`Sphinx CV Template: <https://cv.jnapolitano.io/parts/reference/build-this-site/index.html>`__
     * A Sphinx project to create a cv and resume with ReStructuredText and MarkDown.
 
-`Development Setup Scripts <https://cv.jnapolitano.io/parts/reference/configuration/index.html>`__
-    * Scripts and instructions that setup \*nix systems for software development.
+`Development Setup Scripts: <https://cv.jnapolitano.io/parts/reference/configuration/index.html>`__
+    * Scripts and instructions to setup \*nix systems for software development.
 
 
 
