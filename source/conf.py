@@ -179,7 +179,7 @@ pygments_style = None
 html_theme = 'sphinx_book_theme'
 html_use_index = True
 
-html_logo = "_static/icons/faviconio-logo/logo.png"
+#html_logo = "_static/icons/faviconio-logo/logo.png"
 html_favicon = "_static/icons/favicon_io-white/android-chrome-512x512.png"
 html_last_updated_fmt = ""
 
@@ -203,7 +203,7 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-
+"""
 html_sidebars = {
     "parts/journal/posts/*": [
         "sidebar-logo.html",
@@ -213,12 +213,13 @@ html_sidebars = {
         "sbt-sidebar-footer.html",
     ]
 }
+"""
 
 html_theme_options = {
     "home_page_in_toc": True,
     "theme_dev_mode": True,
     "path_to_docs": "source",
-    "repository_url": "https://github.com/justin-napolitano/cv",
+    "repository_url": "https://github.com/justin-napolitano/resume",
     # "repository_branch": "gh-pages",  # For testing
     "launch_buttons": {
         #"binderhub_url": "https://mybinder.org",
