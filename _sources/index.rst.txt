@@ -30,12 +30,6 @@ Education
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-.. topic:: Education
-
-    I studied Political Science with specialization in empirical analysis of observational data sets.  
-
-    I later studied statistics and computational statistics to supplement my role as a research lead. 
-
 
 University of Central Florida 
 =============================
@@ -133,10 +127,6 @@ The University of Central Florida
   
    <hr>
 
-.. topic:: Conflict Analysis
-
-    The Turkish-Kurdish Conflict is an ongoing armed struggle taking place in Anatolia. The Turkish Government and armed groups terrorize each other and civilians. Our work aims to detail the atrocities committed by any group or individual that maims or harms another.
-    
 
 `Research Design: <https://cv.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/pdf.html>`_
     * Ensured rigor of data collection methodology by meeting industry best practices.   
@@ -171,10 +161,6 @@ Emotional Decision Making and Warfare
   
    <hr>
 
-
-.. topic:: Emotions and Decision Making
-
-    Dr. Tom Dolan focuses the interaction between emotions and the behavior of political agents.  My role in this project was to code the sentiment of sentences collected during a parliamentary debate to determine the emotional states of parliamentarians prior to the invasion of Iraq.  
 
 Sentiment Analysis:
     * Coded data according to sentiment of sentences of UK parliamentarians prior to the invasion of Iraq.
