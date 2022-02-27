@@ -31,8 +31,8 @@ Education
 
 
 
-University of Central Florida 
-=============================
+The University of Central Florida 
+===================================
 
 .. raw:: html
 
@@ -89,11 +89,6 @@ BTJN, LLC
     <hr style="height:1px;border-width:0;color:gray;background-color:gray"> 
 
 .. _founder_overview:
-
-.. topic:: BTJN
-
-    I founded this company to complete contract work.  Below are my notable projects.  
-
 
 `Sales Lead Generation Application: <https://cv.jnapolitano.io/parts/resume/work-history/docs/btjn.html##data-stream-management-application>`_
     * Produced 10,000 weekly sales leads for a marketing firm.

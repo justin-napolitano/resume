@@ -150,7 +150,7 @@ class deploy_pipeline:
 
 
         ##print("i deployz it")
-        print('your site is live at' + cname)
+        print('your site is live at ' + cname)
 
         return result
 
