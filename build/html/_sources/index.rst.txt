@@ -91,19 +91,19 @@ BTJN, LLC
 .. _founder_overview:
 
 `Sales Lead Generation Application: <https://docs.jnapolitano.io/parts/resume/work-history/docs/btjn.html##data-stream-management-application>`_
-    * Produced 10,000 weekly sales leads for a marketing firm.
-    * Mined data with a my `Python webscraping application. <https://docs.jnapolitano.io/parts/data/web-scraping/index.html>`_ 
+    * Programatically produced 1,000 qualified sales leads weekly. 
+    * Devoloped the `Python webscraping application. <https://docs.jnapolitano.io/parts/data/web-scraping/index.html>`_ 
     * Integrated data to `Neo4j <https://docs.jnapolitano.io/parts/python-development/neo4j/index.html>`_ and `JanusGraph <https://docs.jnapolitano.io/parts/python-development/janus-graph/index.html>`_ backends.
-    * Migrated data to Google Sheets and Drive with a custom `Google API Class. <https://docs.jnapolitano.io/parts/python-development/google/index.html>`_ 
+    * Migrated data to Google Sheets and Google Drive with a custom `Google API Class. <https://docs.jnapolitano.io/parts/python-development/google/index.html>`_ 
 
 `CRM Application and Integration: <https://docs.jnapolitano.io/parts/data/data-integration/index.html>`_
-    * Created a custom CRM solution with an Azure SQL Server for a public health startup. 
+    * Created custom CRM solution with an Azure SQL Server for a public health startup. 
     * `Locally transformed data <https://docs.jnapolitano.io/parts/data/data-integration/index.html>`_ with Python to increase value for clients.  
     * Effectively managed the CRM with workflows and data pipelines.
 
 `Business Reporting and Sales Predictions <https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html>`__
     * Modeled retail sales with the SARINA, Holt-Winter, and Exponential Smoothing models in Python and Jupyter Notebooks. 
-    * Identified model of greatest predictive power. 
+    * Calculated Mean Absolute Percentage Error to identify the best predictive model.  
 
 .. _university_work_overview:
 
