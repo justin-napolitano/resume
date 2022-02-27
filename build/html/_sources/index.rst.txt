@@ -221,7 +221,7 @@ Programming Languages:
 Technologies:
    *  Azure, Debian/Ubuntu, Docker, Git, JanusGraph, Jupyter Notebook, Neo4j, Pandas, Rocky Linux, Shell, TensorFlow, Sphinx, Vim.
 
-Human Languages:
+Spoken Languages:
     * Cantonese, French, Spanish, Sranan Tongo.
 
 
@@ -240,8 +240,8 @@ Phone:
 
 Web:
     * `jnapolitano.io <https://jnapolitano.io>`_
-    * `docs.jnapolitano.io <https://docs.jnapolitano.io>`_
     * `resume.jnapolitano.io <https://resume.jnapolitano.io>`_
+    * `docs.jnapolitano.io <https://docs.jnapolitano.io>`_
     
 
 PDF
