@@ -14,7 +14,7 @@ Justin Napolitano's Resume
 
     The links included in this document will direct you to project documentation.
 
-    Please note that there is a pdf download link at the end of this page that will redirect you to my formal resume. I also include a link at the end of this introduction.
+    Please note that there is a pdf download link at the end of this page. I also include a link at the end of this introduction.
 
     :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
 
