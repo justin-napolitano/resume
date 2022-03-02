@@ -240,10 +240,8 @@ Phone:
 
 Web:
     * `jnapolitano.io <https://jnapolitano.io>`_
-    * `resume.jnapolitano.io <https://resume.jnapolitano.io>`_
-    * `docs.jnapolitano.io <https://docs.jnapolitano.io>`_
     * `journal.jnapolitano.io <https://journal.jnapolitano.io>`_
-    
+    * `docs.jnapolitano.io <https://docs.jnapolitano.io>`_ 
 
 PDF
 ####
