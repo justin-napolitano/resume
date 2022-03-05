@@ -124,16 +124,16 @@ Projects
 `Human Rights Abuse Framework: <https://docs.jnapolitano.io/parts/analysis/political-analysis/human-rights-law/index.htmll>`__   
     * Corpus of international human rights law.
 
-`Human Rights Abuses in Anatolia: <https://journal.jnapolitano.io/parts/articles/project-kurdish-conflict/index.html>`
+`Human Rights Abuses in Anatolia: <https://journal.jnapolitano.io/parts/articles/project-kurdish-conflict/index.html>`_
     * Identifying human rights abuses and terrorist activity in Anatolia.
 
-`World Trade Organization and Regulating International Trade <https://journal.jnapolitano.io/parts/articles/project-evolution-of-ngos/index.html>`
+`World Trade Organization and Regulating International Trade <https://journal.jnapolitano.io/parts/articles/project-evolution-of-ngos/index.html>`_
     * Researching the WTO's role in regulating international commerce.
 
 `TensorFlow Behavioral Prediction: <https://docs.jnapolitano.io/parts/ml-ai/index.html>`__
     * Predicting to judicial behavior with TensorFlow.
 
-`Supreme Court MetaData Graph <http://docs.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-sup-court-meta-data-graph/index.html>`
+`Supreme Court MetaData Graph <http://docs.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-sup-court-meta-data-graph/index.html>`_
     * Scripts to build a graph of the meta data of every US Supreme Court case.
 
 `Google API: <https://docs.jnapolitano.io/parts/python-development/google/index.html>`__
