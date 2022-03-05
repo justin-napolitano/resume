@@ -171,28 +171,6 @@ Spoken Languages:
     * Cantonese, French, Spanish.
 
 
-Contact
-#########
-
-.. raw:: html
-
-    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-Email:
-    * :email:`justin@jnapolitano.io`
-
-Phone:
-    * `+1-(832) 299-0372 <tel:+1-832-299-0372>`_
-
-Web:
-    * `jnapolitano.io <https://jnapolitano.io>`_
-    * `journal.jnapolitano.io <https://journal.jnapolitano.io>`_
-    * `docs.jnapolitano.io <https://docs.jnapolitano.io>`_ 
-
-
-
-.. _education_overview:
-
 Education
 ###########
 
@@ -239,6 +217,29 @@ Notable Coursework:
     * `Experimental Design in SAS. <https://docs.jnapolitano.io/parts/data/experimental-design/sas/index.html>`_
     * `Political Analysis with SPSS. <https://docs.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-supcourt-masterpiececake/masterpiece-cake.html>`_
     * Statistical Analysis with MiniTab.
+
+Contact
+#########
+
+.. raw:: html
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+Email:
+    * :email:`justin@jnapolitano.io`
+
+Phone:
+    * `+1-(832) 299-0372 <tel:+1-832-299-0372>`_
+
+Web:
+    * `jnapolitano.io <https://jnapolitano.io>`_
+    * `journal.jnapolitano.io <https://journal.jnapolitano.io>`_
+    * `docs.jnapolitano.io <https://docs.jnapolitano.io>`_ 
+
+
+
+.. _education_overview:
+
 
 
 PDF
