@@ -23,7 +23,7 @@ Justin Napolitano's Resume
 
 
 
-Work History
+Experience
 ############
 
 .. raw:: html
@@ -42,10 +42,10 @@ BTJN, LLC
 
 .. _founder_overview:
 
-`Sales Lead Generation Application: <https://docs.jnapolitano.io/parts/resume/work-history/docs/btjn.html##data-stream-management-application>`_
+`Application Development: <https://docs.jnapolitano.io/parts/resume/work-history/docs/btjn.html##data-stream-management-application>`_
     * Devoloped `Python application to produce 10,000 unfiltered sales leads weekly. <https://docs.jnapolitano.io/parts/data/web-scraping/index.html>`_ 
     * Transformed, filtered, and loaded data from CSV, JSON, and Excel formats to `Neo4j <https://docs.jnapolitano.io/parts/python-development/neo4j/index.html>`_ and `JanusGraph <https://docs.jnapolitano.io/parts/python-development/janus-graph/index.html>`_ backends.
-    * `Integrated data into client's existing Google Sheets workflow with custom Google API class.`` <https://docs.jnapolitano.io/parts/python-development/google/index.html>`_ 
+    * `Integrated data into client's existing Google Sheets workflow with custom Google API class. <https://docs.jnapolitano.io/parts/python-development/google/index.html>`_ 
 
 `Business Reporting and Sales Predictions <https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html>`__
     * Modeled retail sales with the SARINA, Holt-Winter, and Exponential Smoothing models in Python and Jupyter Notebooks. 
@@ -228,8 +228,8 @@ Focuses:
 
 .. _statistics_master:
 
-Computation Statistics
-------------------------
+Computational Statistics
+-------------------------
 
 .. raw:: html
   
