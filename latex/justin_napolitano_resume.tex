@@ -70,9 +70,30 @@
     \end{tabular*}\vspace{-5pt}
 }
 
+\newcommand{\resumeSubheadingProject}[3]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3}  \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeProject}[2]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-5pt}
+}
+
 \newcommand{\resumeSubSubheading}[2]{
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeJustin}[1]{
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\small#1} \\
     \end{tabular*}\vspace{-5pt}
 }
 
@@ -153,20 +174,51 @@ Open source intelligence specialist seeking employment in role requiring analyti
         \resumeItem{Automated Sentiment Analysis}
           {Compared user scored sentences to programmatic scoring to identify errors.}
       \resumeItemListEnd
+
   \resumeSubHeadingListEnd
 
 
+%--------Multiple Positions Heading------------
+
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+  
 %-----------PROJECTS-----------------
 \section{Projects}
   \resumeSubHeadingListStart
-    \resumeSubItem{\href{https://court-behavior.iol}{Predicting Behavior of the United States Supreme Court}}
-      {Analysis of text and prediction of Supreme Court voting behavior with TensorFlow, SPSS, and inferential statistics.}
-    \resumeSubItem{\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Data Application}}
-      {Extracting and transforming web data from REST API and HTML source with Python.  Loading data to Neo4j and JanusGraph backends.}
+  \resumeProject
+    {\href{https://court-behavior.io}{Court-Behavior.io}}{Python, Sphinx, TensorFlow, Keras, GraphDB}
+      \resumeItemListStart
+        \resumeItem{Behavioral Analysis}
+          {Predicting Supreme Court voting behavior with Keras and TensorFlow Python apis.}
+        \resumeItem{Inferential Statistics}
+          {Employing Bayesian inferential statistics with SPSS.}
+        \resumeItem{Data Mining}
+          {Extracting metadata from the US Library of Congress.  Loading data to JanusGraph database}
+      \resumeItemListEnd
+  \resumeProject
+    {\href{docs.jnapolitano.io}{docs.jnapolitano.io}}{Legal Research, Developer Tools, Api Development}
+      \resumeItemListStart
+        \resumeItem{Project Documentation}
+          {Documenting Python, SAS, and analysis projects with Sphinx and LaTeX}
+        \resumeItem{Python Development}
+          {Python ETL applications and API developement for Neo4j, JanusGraph, SQL, and Google Workspace workflows.}
+        \resumeItemListEnd
+
+%    \resumeSubItem{\href{https://court-behavior.iol}{Court-Behavior.io}}
+%    \resumeSubSubheading
+%      {University of Central Florida}{Orlando, FL}
+%      {Research Assistant}{Jan 2017 - Jan 2018} 
+%      \resumeItemListStart
+%        \resumeItem{Data Integration}
+%          {Analysis of text and prediction of Supreme Court voting behavior with TensorFlow, SPSS, and inferential statistics.}
+%        \resumeItemListEnd 
+%    \resumeSubItem{\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Data Application}}
+%      {Extracting and transforming web data from REST API and HTML source with Python.  Loading data to Neo4j and JanusGraph backends.}
     \resumeSubItem{\href{https://journal.jnapolitano.io/parts/articles/project-evolution-of-ngos/index.html}{World Trade Organization's Influence on Commerce}}
       {Analysis of international trade law to identify the governents and systems that dominate international commerce.}
 
-  \resumeSubHeadingListEnd
+ \resumeSubHeadingListEnd
 
 %-----------EDUCATION-----------------
 \section{Education}
