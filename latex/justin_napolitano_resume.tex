@@ -41,7 +41,7 @@
 % Sections formatting
 \titleformat{\section}{
   \vspace{-4pt}\scshape\raggedright\large
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+}{}{0em}{}[\color{black}\titlerule \vspace{-0pt}]
 
 % Ensure that generate pdf is machine readable/ATS parsable
 \pdfgentounicode=1
@@ -50,7 +50,7 @@
 % Custom commands
 \newcommand{\resumeItem}[2]{
   \item\small{
-    \textbf{#1}{: #2 \vspace{-2pt}}
+    \textbf{#1}{: #2 \vspace{-0pt}}
   }
 }
 
@@ -92,9 +92,9 @@
 }
 
 \newcommand{\resumeJustin}[1]{
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \begin{0.97\textwidth}
       \textbf{\small#1} \\
-    \end{tabular*}\vspace{-5pt}
+    \end\vspace{-0pt}
 }
 
 \newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
@@ -112,131 +112,105 @@
 
 \begin{document}
 
-%----------HEADING-----------------
-\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\href{https://jnapolitano.io/}{\Large Justin Napolitano}} & Email : \href{mailto:justin@jnapolitano,io}{justin@jnapolitano.io}\\
-  \href{https://jnapolitano.io}{jnapolitano.io} & Mobile : +1-832-299-0372 \\
-\end{tabular*}
+  %----------HEADING-----------------
+  \vspace{5pt}
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{\href{https://jnapolitano.io/}{\Large Justin Napolitano}} & Email : \href{mailto:justin@jnapolitano,io}{justin@jnapolitano.io}\\
+    \href{https://jnapolitano.io}{jnapolitano.io} & Mobile : +1-832-299-0372 \\
+  \end{tabular*}
+  \vspace{5pt}
+  %-----------------Objective-------------------------------
+  \begin{center}
+    Open source intelligence specialist seeking employment in role requiring analytic skill set and strong research ability. Experienced in developing analytic work flows with Python, SAS, and SPSS.  Possess knowledge of creating research methodology, managing data integration, and visualizing data for peer reviewed academic papers.  
+  \end{center}
 
-%-----------------Objective-------------------------------
-\begin{center}
-Open source intelligence specialist seeking employment in role requiring analytic skill set and strong research ability. Experienced in developing analytic work flows with Python, SAS, and SPSS.  Possess knowledge of creating research methodology, managing data integration, and visualizing data for peer reviewed academic papers.  
-  
-\end{center}
+  %-----------EXPERIENCE-----------------
+  \section{Experience}
+    \resumeSubHeadingListStart
+      \resumeSubheading
+        {\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{BTJN, LLC}}{Houston, TX}
+        {Data Application Development}{May 2021 - Present}
+        \resumeItemListStart
+          \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html}{Business Reporting and Sales Prediction}}
+            {Modeled retail sales with SARINA, Holt-Winter, and Exponential Smoothing models with Statsmodels API.}
+          \resumeItem{\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{Application Development}}
+            {\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{Developed Python application} to mine 10,000 unfiltered sales leads weekly.}
+          \resumeItem{\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{ETL Pipeline Management}}
+            {\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Extracted data from REST API.  Transformed results with PySpark.  Loaded data to} \href{https://docs.jnapolitano.io/parts/python-development/neo4j/index.html}{Neo4j} backend. \href{https://docs.jnapolitano.io/parts/python-development/google/index.html}{Integrated data into client's existing Google Sheets workflow.}}
+        \resumeItemListEnd
+        
 
-%-----------EXPERIENCE-----------------
-\section{Experience}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{BTJN, LLC}}{Houston, TX}
-      {Data Specialist}{May 2021 - Present}
-      \resumeItemListStart
-	    \resumeItem{\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{Application Development}}
-	      {\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{Developed Python application} to programatically produce 10,000 unfiltered sales leads weekly.}
-      \resumeItem{\href{https://docs.jnapolitano.io/parts/data/web-scraping/index.html}{ETL Pipelines}}
-        {\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Transformed, filtered, and loaded data from CSV, JSON, and Excel formats to} \href{https://docs.jnapolitano.io/parts/python-development/neo4j/index.html}{Neo4j} database. \href{https://docs.jnapolitano.io/parts/python-development/google/index.html}{Integrated data into client's existing Google Sheets workflow with custom Google API class.}}
-      \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html}{Business Reporting and Sales Predictions}}
-        {Modeled retail sales with the SARINA, Holt-Winter, and Exponential Smoothing models in Python and Jupyter Notebooks. Identified model of greatest predictive power.}
+      \resumeSubheading
+        {\href{https://docs.jnapolitano.io/parts/resume/work-history/docs/ucf.html}{University of Central Florida}}{Orlando, FL}
+        {Research Lead}{Jan 2017 - Aug 2019}
+        \resumeItemListStart
+          \resumeItem{Article Publication}
+            {Led team to present publication at the Peace Science Conference at the Hague.}
+          \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/analysis.html}{Analysis}}
+            {Performed inferential analysis of socio-economic and conflict data.  }
+          \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/database_schema.html}{Database Design}}
+            {Defined a third normal database of conflict event records.}
+          \resumeItem{\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Data Integration}}
+            {Transformed data from Excel and CSV sources into JSON format to index into MongoDB.}
       \resumeItemListEnd
-      
-% --------Multiple Positions Heading------------
-%    \resumeSubSubheading
-%     {Software Engineer I}{Oct 2014 - Sep 2016}
-%     \resumeItemListStart
-%        \resumeItem{Apache Beam}
-%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
-%     \resumeItemListEnd
-%    \resumeSubHeadingListEnd
-%-------------------------------------------
 
-    \resumeSubheading
-      {\href{https://docs.jnapolitano.io/parts/resume/work-history/docs/ucf.html}{University of Central Florida}}{Orlando, FL}
-      {Research Lead}{Jan 2017 - Aug 2019}
-      \resumeItemListStart
-        \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/pdf.htm}{Research Design}}
-          {Ensured rigor of data collection methodology by meeting industry best practices.}
-        \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/database_schema.html}{Database Design}}
-          {Defined a third normal database to maintain logical consistency.  Refined data to facilitate porting to person, object, location and event (POLE) schema.}
-        \resumeItem{\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Data Integration}}
-          {Standardized integration procedures to verify integrity of files generated by research assistants. Transformed data from Excel and CSV sources into JSON format to index into a noSQL database.}
-        \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/analysis.html}{Data Analysis}}
-          {Analyzed conflict data with Pandas.  Visualized data with MatPlotLib.  Prepared presentation peer reviewed at the Peace Science Conference at the Hague, Switzerland.}
-        \resumeItem{\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/terrorism-conflict/project-turkish-kurdish/pdf.html}{Project Management}}
-          {Developed manuals to train inexperienced research assistants to query primary sources and code data points.  Led team to achieve project goals prior to deadlines defined in our grant.}
-    \resumeItemListEnd
+      \resumeSubheading
+        {University of Central Florida}{Orlando, FL}
+        {Research Assistant}{Jan 2017 - Jan 2018}
+        \resumeItemListStart
+          \resumeItem{Data Administration}
+            {Standardized data verification and aggregation procedures.}
+          \resumeItem{Automated Sentiment Analysis}
+            {Compared user scored sentences to ml model scoring to identify errors.}
+        \resumeItemListEnd
 
-    \resumeSubheading
-      {University of Central Florida}{Orlando, FL}
-      {Research Assistant}{Jan 2017 - Jan 2018}
-      \resumeItemListStart
-        \resumeItem{Data Integration}
-          {Aggregated data points generated by student research assistants into database with Python.}
-        \resumeItem{Automated Sentiment Analysis}
-          {Compared user scored sentences to programmatic scoring to identify errors.}
-      \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+    
+  %-----------PROJECTS-----------------
+  \section{Projects}
+    \resumeSubHeadingListStart
+    \resumeProject
+      {\href{https://court-behavior.io}{Court-Behavior.io}}{}
+        \resumeItemListStart
+          \resumeItem{Behavioral Analysis}
+            {Predicting Supreme Court voting behavior with Keras and TensorFlow Python APIs.}
+          \resumeItem{Inferential Statistics}
+            {Employing Bayesian inferential models with SPSS.}
+          \resumeItem{Data Mining}
+            {Extracting metadata from the US Library of Congress.  Loading data to JanusGraph database.}
+        \resumeItemListEnd
+    \resumeProject
+      {\href{docs.jnapolitano.io}{Docs.Jnapolitano.io}}{}
+        \resumeItemListStart
+          \resumeItem{Project Documentation}
+            {Documenting personal and professional projects with Sphinx and LaTeX.}
+          \resumeItem{Python Development}
+            {ETL applications interfacing with Neo4j, JanusGraph, SQL, and Google APIs.}
+          \resumeItem{Analysis}
+            {Business, political, and legal analysis with Python, SPSS, and SAS.}
+          \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
+  %-----------EDUCATION-----------------
+  \section{Education}
+    \resumeSubHeadingListStart
+      \resumeSubheading
+        {University of Central Florida}{Orlando, Fl}
+        {Bachelor of Arts in Political Science}{August 2018}
+    \resumeSubHeadingListEnd
 
-%--------Multiple Positions Heading------------
-
-%    \resumeSubHeadingListEnd
-%-------------------------------------------
-  
-%-----------PROJECTS-----------------
-\section{Projects}
-  \resumeSubHeadingListStart
-  \resumeProject
-    {\href{https://court-behavior.io}{Court-Behavior.io}}{Python, Sphinx, TensorFlow, Keras, GraphDB}
-      \resumeItemListStart
-        \resumeItem{Behavioral Analysis}
-          {Predicting Supreme Court voting behavior with Keras and TensorFlow Python apis.}
-        \resumeItem{Inferential Statistics}
-          {Employing Bayesian inferential statistics with SPSS.}
-        \resumeItem{Data Mining}
-          {Extracting metadata from the US Library of Congress.  Loading data to JanusGraph database}
-      \resumeItemListEnd
-  \resumeProject
-    {\href{docs.jnapolitano.io}{docs.jnapolitano.io}}{Legal Research, Developer Tools, Api Development}
-      \resumeItemListStart
-        \resumeItem{Project Documentation}
-          {Documenting Python, SAS, and analysis projects with Sphinx and LaTeX}
-        \resumeItem{Python Development}
-          {Python ETL applications and API developement for Neo4j, JanusGraph, SQL, and Google Workspace workflows.}
-        \resumeItemListEnd
-
-%    \resumeSubItem{\href{https://court-behavior.iol}{Court-Behavior.io}}
-%    \resumeSubSubheading
-%      {University of Central Florida}{Orlando, FL}
-%      {Research Assistant}{Jan 2017 - Jan 2018} 
-%      \resumeItemListStart
-%        \resumeItem{Data Integration}
-%          {Analysis of text and prediction of Supreme Court voting behavior with TensorFlow, SPSS, and inferential statistics.}
-%        \resumeItemListEnd 
-%    \resumeSubItem{\href{https://docs.jnapolitano.io/parts/data/data-integration/index.html}{Data Application}}
-%      {Extracting and transforming web data from REST API and HTML source with Python.  Loading data to Neo4j and JanusGraph backends.}
-    \resumeSubItem{\href{https://journal.jnapolitano.io/parts/articles/project-evolution-of-ngos/index.html}{World Trade Organization's Influence on Commerce}}
-      {Analysis of international trade law to identify the governents and systems that dominate international commerce.}
-
- \resumeSubHeadingListEnd
-
-%-----------EDUCATION-----------------
-\section{Education}
-\resumeSubHeadingListStart
-  \resumeSubheading
-    {University of Central Florida}{Orlando, Fl}
-    {Bachelor of Arts in Political Science}{August 2018}
-\resumeSubHeadingListEnd
-
-  %--------PROGRAMMING SKILLS------------
-\section{Skills}
-\resumeSubHeadingListStart
-  \resumeSubItem{Technologies}
-    {{\href{https://docs.jnapolitano.io/parts/data/graph-database/index.html}{Graph Database}}, {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html}{Jupyter}}, LaTeX, {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html}{MatPlotLib}}, Pandas, {\href{https://docs.jnapolitano.io/index.html}{Python}}, {\href{https://docs.jnapolitano.io/parts/data/experimental-design/index.html}{SAS}, SPSS, SQL, \href{https://docs.jnapolitano.io/parts/ml-ai/index.html}{TensorFlow}}.}
-  \resumeSubItem{Data Modeling and Analysis}
-    {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html}{Sales Forecasting,} {\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/index.html}{Political Analysis,}} {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html}{Business Analysis,}} Data Visualization.}
-  \resumeSubItem{Spoken Languages}
-    {Cantonese, English, French, Spanish.}
-\resumeSubHeadingListEnd
+    %--------PROGRAMMING SKILLS------------
+  \section{Skills}
+    \resumeSubHeadingListStart
+      \resumeSubItem{Technologies}
+        {{\href{https://docs.jnapolitano.io/parts/data/graph-database/index.html}{Graph Database}}, {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html}{Jupyter}}, LaTeX, {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html}{MatPlotLib}}, Pandas, {\href{https://docs.jnapolitano.io/index.html}{Python}}, {\href{https://docs.jnapolitano.io/parts/data/experimental-design/index.html}{SAS}, SPSS, SQL, \href{https://docs.jnapolitano.io/parts/ml-ai/index.html}{TensorFlow}}.}
+      \resumeSubItem{Data Modeling and Analysis}
+        {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html}{Sales Forecasting,} {\href{https://docs.jnapolitano.io/parts/analysis/political-analysis/index.html}{Political Analysis,}} {\href{https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html}{Business Analysis,}} Data Visualization.}
+      \resumeSubItem{Spoken Languages}
+        {English, French, Spanish.}
+    \resumeSubHeadingListEnd
 %-------------------------------------------
 \end{document}
