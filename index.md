@@ -22,6 +22,14 @@ seoSecondaryKeywords:
   - bash scripting
   - docker container
 seoOptimized: true
+topicFamily: latex
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post centers on a LaTeX resume project with build automation, deployment, and backup
+  scripting. While automation is a strong theme, the primary focus is on LaTeX resume templates and
+  document preparation workflows. The latex family matches best given the content's emphasis on
+  LaTeX source, resume templates, and build automation specific to professional document
+  preparation.
 ---
 
 # Technical Overview of the Resume Repository
@@ -72,3 +80,4 @@ Additional shell scripts (`install.sh`, `mac_setup.sh`, `uninstall.sh`) assist w
 This repository exemplifies a practical approach to managing a LaTeX resume with automation for building, deploying, and backing up. The combination of scripting, containerization, and cloud storage integration reflects a mature workflow aimed at reducing manual overhead and ensuring reliability. Returning to this project, one should focus on the build scripts and deployment pipeline as the core mechanisms enabling continuous updates and hosting.
 
 ---
+
