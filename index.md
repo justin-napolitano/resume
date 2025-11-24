@@ -1,12 +1,28 @@
 ---
-slug: "github-resume"
-title: "resume"
-repo: "justin-napolitano/resume"
-githubUrl: "https://github.com/justin-napolitano/resume"
-generatedAt: "2025-11-23T09:33:01.693908Z"
-source: "github-auto"
+slug: github-resume
+title: LaTeX Resume Automation with Build, Deployment, and Backup Scripts
+repo: justin-napolitano/resume
+githubUrl: https://github.com/justin-napolitano/resume
+generatedAt: '2025-11-23T09:33:01.693908Z'
+source: github-auto
+summary: >-
+  Overview of a LaTeX-based resume project featuring automated building, GitHub Pages deployment,
+  and Dropbox backup through scripting and containerization.
+tags:
+  - latex
+  - automation
+  - github-pages
+  - dropbox
+  - bash-scripting
+seoPrimaryKeyword: latex resume automation
+seoSecondaryKeywords:
+  - build scripts
+  - github pages deployment
+  - dropbox backup
+  - bash scripting
+  - docker container
+seoOptimized: true
 ---
-
 
 # Technical Overview of the Resume Repository
 
