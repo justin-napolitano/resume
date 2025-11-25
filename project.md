@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/resume
 generatedAt: '2025-11-24T21:36:11.549Z'
 source: github-auto
 summary: >-
-  A LaTeX-based resume project featuring automation scripts for building,
-  deploying, and maintaining a professional resume.
+  A LaTeX-based resume project featuring automation scripts for building, deploying, and maintaining
+  a professional resume.
 tags:
   - latex
   - python
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - docker resume build
   - resume backup script
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: latex
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -128,3 +128,4 @@ requirements.txt # Python dependencies
 ---
 
 *Note: Some assumptions were made regarding the purpose of scripts based on filenames and partial content.*
+
