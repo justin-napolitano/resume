@@ -1,35 +1,41 @@
 ---
 slug: github-resume
-title: LaTeX Resume Automation with Build, Deployment, and Backup Scripts
+title: Automated LaTeX Resume Management with GitHub Pages
 repo: justin-napolitano/resume
 githubUrl: https://github.com/justin-napolitano/resume
 generatedAt: '2025-11-23T09:33:01.693908Z'
 source: github-auto
 summary: >-
-  Overview of a LaTeX-based resume project featuring automated building, GitHub Pages deployment,
-  and Dropbox backup through scripting and containerization.
+  Explore a LaTeX-based resume project that automates building, deploying, and
+  backing up for software developers.
 tags:
   - latex
   - automation
   - github-pages
   - dropbox
   - bash-scripting
+  - github pages
+  - python
+  - bash scripting
+  - docker
 seoPrimaryKeyword: latex resume automation
 seoSecondaryKeywords:
-  - build scripts
-  - github pages deployment
-  - dropbox backup
-  - bash scripting
-  - docker container
+  - build automation
+  - resume deployment
+  - ghp-import
+  - backup scripts
+  - environment setup
 seoOptimized: true
 topicFamily: latex
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post centers on a LaTeX resume project with build automation, deployment, and backup
-  scripting. While automation is a strong theme, the primary focus is on LaTeX resume templates and
-  document preparation workflows. The latex family matches best given the content's emphasis on
-  LaTeX source, resume templates, and build automation specific to professional document
-  preparation.
+  The post centers on a LaTeX resume project with build automation, deployment,
+  and backup scripting. While automation is a strong theme, the primary focus is
+  on LaTeX resume templates and document preparation workflows. The latex family
+  matches best given the content's emphasis on LaTeX source, resume templates,
+  and build automation specific to professional document preparation.
+kind: project
+id: github-resume
 ---
 
 # Technical Overview of the Resume Repository
