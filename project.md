@@ -1,20 +1,31 @@
 ---
 slug: github-resume
 id: github-resume
-title: Resume
+title: LaTeX Resume Project for Developers with Automation Tools
 repo: justin-napolitano/resume
 githubUrl: https://github.com/justin-napolitano/resume
 generatedAt: '2025-11-24T21:36:11.549Z'
 source: github-auto
 summary: >-
-  A LaTeX-based resume project designed for software developers, leveraging base
-  LaTeX templates and fonts for easy customization and consistent formatting.
-  This repository contains scripts and automation tools to build, deploy, and
-  maintain the resume efficiently.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A LaTeX-based resume project featuring automation scripts for building,
+  deploying, and maintaining a professional resume.
+tags:
+  - latex
+  - python
+  - docker
+  - github pages
+  - automation
+  - resume
+  - bash
+  - makefile
+seoPrimaryKeyword: latex resume automation
+seoSecondaryKeywords:
+  - build and deploy resume
+  - github pages resume
+  - python automation scripts
+  - docker resume build
+  - resume backup script
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
